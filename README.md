@@ -93,7 +93,11 @@ tour-management/
 ├── package.json
 └── README.md
 ```
-🛡️ Security & Best Practices
+
+---
+
+### 🛡️ Security & Best Practices
+
 ✅ Input validation
 
 ✅ Environment variables for sensitive data
@@ -102,7 +106,10 @@ tour-management/
 
 ✅ Secure API endpoints
 
-💡 Future Enhancements
+---
+
+### 💡 Future Enhancements
+
 Payment gateway integration
 
 Admin dashboard for managing tours
@@ -111,7 +118,10 @@ Rating & Review system
 
 Google Maps integration
 
-🤝 Contributing
+---
+
+### 🤝 Contributing
+
 We welcome contributions from the community.
 
 Fork the repo
@@ -124,7 +134,10 @@ Push to the branch
 
 Create a Pull Request
 
-🧑‍💻 Author
+---
+
+### 🧑‍💻 Author
+
 Shivam Kumar
 MCA (Cybersecurity) | Galgotias University
 GitHub Profile(https://github.com/sbharatdwaj)
